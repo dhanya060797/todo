@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import agendaData from "../../pages/api/MockData/agendaData";
-import DayView from "../DayView/DayView";
+ import DayView from "../DayView/DayView";
 
 
 const DayViewConatiner = styled.div`

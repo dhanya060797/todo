@@ -59,7 +59,7 @@ const Timeline = styled.div`
         background: rgb(157, 163, 158);
         position: absolute;
         left: 0;
-        border-radius: 15px;
+        border-radius:15px;
       }
     }
   }
